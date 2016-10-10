@@ -1,0 +1,12 @@
+#top-logo {
+  filter: invert(100%);
+}
+
+.footer-logo img {
+  filter: invert(100%);
+  width: 7rem;
+}
+
+.small-logo img {
+  width: 7rem;
+}
